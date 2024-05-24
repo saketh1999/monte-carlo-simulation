@@ -3,7 +3,7 @@ The Monte Carlo method is a computational technique that tackles problems with i
 Imagine tossing a coin many times to understand the likelihood of heads or tails.By running numerous simulations, the method builds a picture of probable results for complex situations where closed-form solutions are difficult or impossible. 
 This makes it a valuable tool in various fields, from finance and risk analysis to physics and engineering.
 
-## Example to uderstand
+## Example to understand
 Imagine you're considering investing in a new stock. You're excited about the company's potential, but there's always some uncertainty about future stock prices. 
 A Monte Carlo simulation can help you understand the range of possible outcomes.
 
